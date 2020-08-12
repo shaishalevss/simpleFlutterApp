@@ -8,7 +8,7 @@ void main() {
         appBar: AppBar(
           title: Center(
               child: Text('Almost There!',
-                  style: TextStyle(color: Colors.red[300]))),
+                  style: TextStyle(color: Colors.red[400]))),
           backgroundColor: Colors.teal[900],
         ),
         body: Center(
